@@ -20,6 +20,8 @@ End of Spring or start of Summer. June 15-16 2018 might be fine.
 ## Who ?
 
 Don't know.
+Probably not too much people.
+I hope to have beginner speakers and will try to find way to help them propose for first time (ideas : present in team, provide support to write / prepare the talk, have no public question after the talk so you can propose about a subject without being an expert. Any other idea ? tell me (@ftregan / fabien at tregan dot fr )
 
 ## Star speakers
 
