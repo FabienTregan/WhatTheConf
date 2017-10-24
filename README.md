@@ -31,10 +31,11 @@ I might consider anyone who bring the best cookies our star speaker. This conf i
 
 I'd like the talks to be choosed not by the organisation team but by attendees. Here are some talks I wish would be proposed :
 
--Story of computers from the Loom to the Eniac
--Wooden Pneumatic Logic Gates : making a bloons based calculator
--Pong game made from Minecraft blocks and redstone
--The 12 pieces of wood which make a guitar
+*#* Story of computers from the Loom to the Eniac
+*#* Wooden Pneumatic Logic Gates : making a bloons based calculator
+*#* Pong game made from Minecraft blocks and redstone
+*#* The 12 pieces of wood which make a guitar
+*#* Bourbakism and modern math teaching
 
 ## Price
 
